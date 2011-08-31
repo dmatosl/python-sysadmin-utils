@@ -1,5 +1,9 @@
 python-sysadmin-utils
+    by dmatosl <danielmatos.lima at gmail dot com>
 
-Another bunch of scripts for linux sysadmins that intends to improve service's availability.
+Another bunch of scripts for linux sysadmins that intends to improve web service's availability.
 
-Author: Daniel de Matos Lima <danielmatos.lima at gmail dot com>
+Key words: python, watchdog, sshclient, action, rules, regexp, http, pop, smtp, linux hosting enviroment ! 
+
+Usage Example:
+    Still under construction !
