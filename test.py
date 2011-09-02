@@ -1,5 +1,4 @@
-from utils.socket import Abstract
+from Utils.Socket import Smtp
 
-smtp = Abstract()
-smtp.connect('localhost',25)
-print smtp.recv(4096)
+s = Smtp('cpweb0021.servidorwebfacil.com').getBanner()
+print s
